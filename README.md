@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-this is a live lab
+This is a live lab
